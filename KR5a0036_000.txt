@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:35:13.726899
-#+TITLE: 太上太玄女青三元品誡拔罪妙經
-#+PROPERTY: DZID  DZ0036
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，1—835 三卷 洞真部本文類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
